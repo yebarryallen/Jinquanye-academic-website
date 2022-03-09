@@ -12,34 +12,19 @@ interests:
 social:
   - icon: envelope
     icon_pack: fas
-    link: /#contact
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
-  - icon: graduation-cap
-    icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: yebarryallen@gmail.com
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
-  - icon: linkedin
-    icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://github.com/yebarryallen
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: Nanchang University
+    url: http://www.ncu.edu.cn/
 education:
-  courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
-email: ""
+  courses: []
+email: yebarryallen@gmail.com
 superuser: true
+user_groups:
+  - Nanchang University
 highlight_name: true
 ---
+**Jinquan Ye** received B.S. degree in the **Management Science and Engineering** from **Nanchang University**, Nanchang, China, in 2022.Visiting study at the National University of Singapore during undergraduate studies.
