@@ -34,7 +34,7 @@ feature:
   name: database  
 - description: 20%
   icon: table
-  icon_pack: far
+  icon_pack: fab
   name: Meta-analysis 
 
 # Uncomment to use emoji icons.
