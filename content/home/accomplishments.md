@@ -37,4 +37,4 @@ design:
 Visualizing Geospatial Data in Python
 DEC 27, 2020
 
-![](datacamp图标.png)
+![](datacamp图标.png "Datacamp")
