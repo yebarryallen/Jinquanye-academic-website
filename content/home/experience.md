@@ -24,7 +24,7 @@ date_format: Jan 2006
 experience:
   - title: Project Intern
     company: Lanyu (China) Management Consulting
-    company_url: ''
+    company_url: 'http://www.jxlanyu.com/'
     company_logo: lanyu
     location: Jiangxi, China
     date_start: '2021-03-01'
@@ -45,6 +45,20 @@ experience:
     date_end: '2019-08-05'
     description: Organised the group to collect and analyze the debriefing materials, then present the results.
 
+
+- title: Attended Academic Conferences
+    company: FEMIB 2020 2nd International Conference on Finance, Economics, Management and IT Business
+    company_url: 'https://femib.scitevents.org'
+    company_logo: org-x
+    location: Czech Republic
+    date_start: '2020-05-05'
+    date_end: '2020-05-06'
+    description: |2-
+        Responsibilities include:
+        
+        * As a conference speaker
+       
+
 design:
-  columns: '2'
+  columns: '3'
 ---
