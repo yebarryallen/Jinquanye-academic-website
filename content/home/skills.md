@@ -24,19 +24,24 @@ feature:
   icon: chart-line
   icon_pack: fas
   name: Statistics
-- description: 40%
-  icon: spider-solid
-  icon_pack: fab
-  name: Web crawler
-- description: 20%
-  icon: fa-database
-  icon_pack: far
-  name: database  
-- description: 20%
-  icon: table
-  icon_pack: fab
-  name: Meta-analysis 
 
+- icon: "database-solid"
+  icon_pack: "custom"
+  name: "database"
+  description: "40%"
+- icon: "table-cells-solid"
+  icon_pack: "custom"
+  name: "Meta-analysis"
+  description: "20%"
+- icon: "spider-solid"
+  icon_pack: "custom"
+  name: "Web crawler"
+  description: "20%"  
+- icon: "table-cells-solid"
+  icon_pack: "custom"
+  name: "Excel"
+  description: "100%"    
+  
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
 #  icon_pack: "emoji"
