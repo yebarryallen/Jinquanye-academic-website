@@ -25,7 +25,7 @@ experience:
   - title: Project Intern
     company: Lanyu (China) Management Consulting
     company_url: ''
-    company_logo: 蓝煜图标
+    company_logo: lanyu
     location: California
     date_start: '2021-03-01'
     date_end: ''
