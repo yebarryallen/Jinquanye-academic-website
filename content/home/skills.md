@@ -30,11 +30,11 @@ feature:
   name: Web crawler
 - description: 20%
   icon: database
-  icon_pack: fab
-  name: databaser  
+  icon_pack: far
+  name: database  
 - description: 20%
   icon: meta
-  icon_pack: fab
+  icon_pack: far
   name: Meta-analysis 
 
 # Uncomment to use emoji icons.
