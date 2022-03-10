@@ -46,7 +46,7 @@ experience:
     description: Organised the group to collect and analyze the debriefing materials, then present the results.
 
 
-- title: Attended Academic Conferences
+  - title: Attended Academic Conferences
     company: FEMIB 2020 2nd International Conference on Finance, Economics, Management and IT Business
     company_url: 'https://femib.scitevents.org'
     company_logo: org-x
