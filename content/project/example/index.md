@@ -4,13 +4,12 @@ url_pdf: ""
 summary: ""
 url_video: ""
 date: 2022-03-09T14:45:45.789Z
-categories:
-  - Training program
+categories: []
 external_link: ""
 url_slides: ""
 title: University student innovation training program(national)
 tags:
-  - Deep Learning
+  - Training program
 links:
   - url: https://jxdc.jxedu.gov.cn
     name: Jiangxi University Student Innovation and Entrepreneurship Training
