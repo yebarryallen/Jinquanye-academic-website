@@ -26,24 +26,24 @@ experience:
     company: Lanyu (China) Management Consulting
     company_url: ''
     company_logo: lanyu
-    location: California
+    location: Jiangxi, China
     date_start: '2021-03-01'
     date_end: ''
     description: |2-
         Responsibilities include:
         
-        * Analysing
-        * Modelling
-        * Deploying
+        * Analyzing government policies
+        * Collecting corporate information
+        * Deploying project submission proposals
         
-  - title: Professor of Semiconductor Physics
-    company: University X
-    company_url: ''
-    company_logo: org-x
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2020-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+  - title: Interned at SP REGINEBOO ORGANISATION
+    company: AIA Singapore
+    company_url: 'https://www.aia.com.sg'
+    company_logo: aia-logo
+    location: Singapore
+    date_start: '2019-07-15'
+    date_end: '2019-08-05'
+    description: Organised the group to collect and analyze the debriefing materials, then present the results.
 
 design:
   columns: '2'
