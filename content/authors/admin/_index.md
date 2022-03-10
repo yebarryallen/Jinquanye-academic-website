@@ -10,9 +10,9 @@ interests:
   - multi-regional input-output
   - policy evaluation
 social:
-  - icon: envelope
+  - icon: orcid
     icon_pack: fas
-    link: yebarryallen@gmail.com
+    link: https://orcid.org/0000-0002-4695-9570
   - icon: github
     icon_pack: fab
     link: https://github.com/yebarryallen
