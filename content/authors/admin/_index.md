@@ -20,7 +20,10 @@ organizations:
   - name: Nanchang University
     url: http://www.ncu.edu.cn/
 education:
-  courses: []
+  courses:
+    - course: Visualizing Geospatial Data in Python
+      institution: datacamp
+      year: 2019
 email: yebarryallen@gmail.com
 superuser: true
 user_groups:
