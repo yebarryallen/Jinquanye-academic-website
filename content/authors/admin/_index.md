@@ -21,8 +21,9 @@ organizations:
     url: http://www.ncu.edu.cn/
 education:
   courses:
-    - course: Visualizing Geospatial Data in Python
-      institution: datacamp
+    - course: " Innovation Management Program"
+      institution: NUS FACULTY OF ENGINEERING Department of Industrial Systems
+        Engineering and Management
       year: 2019
 email: yebarryallen@gmail.com
 superuser: true
