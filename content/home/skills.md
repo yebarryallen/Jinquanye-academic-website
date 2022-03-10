@@ -29,11 +29,11 @@ feature:
   icon_pack: fab
   name: Web crawler
 - description: 20%
-  icon: database
+  icon: fa-database
   icon_pack: far
   name: database  
 - description: 20%
-  icon: meta
+  icon: table
   icon_pack: far
   name: Meta-analysis 
 
