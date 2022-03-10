@@ -21,7 +21,7 @@ organizations:
     url: http://www.ncu.edu.cn/
 education:
   courses:
-    - course: " Innovation Management Program"
+    - course: " NUS-Innovation Management Program"
       institution: NUS FACULTY OF ENGINEERING Department of Industrial Systems
         Engineering and Management
       year: 2019
