@@ -11,7 +11,7 @@ interests:
   - policy evaluation
 social:
   - icon: orcid
-    icon_pack: fas
+    icon_pack: ai
     link: https://orcid.org/0000-0002-4695-9570
   - icon: github
     icon_pack: fab
