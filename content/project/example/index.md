@@ -17,6 +17,7 @@ image:
   caption: ""
   focal_point: ""
   preview_only: false
+  filename: qq截图20220310093318.png
 url_code: ""
 ---
 <!--StartFragment-->• Details：Using scrapping techniques and text mining to collect opinions among massive V2G stakeholders and gain a whole picture of social responses toward V2G policies.
