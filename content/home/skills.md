@@ -24,10 +24,18 @@ feature:
   icon: chart-line
   icon_pack: fas
   name: Statistics
-- description: 10%
-  icon: camera-retro
-  icon_pack: fas
-  name: Photography
+- description: 40%
+  icon: spider-web
+  icon_pack: fab
+  name: Web crawler
+- description: 20%
+  icon: database
+  icon_pack: fab
+  name: databaser  
+- description: 20%
+  icon: meta
+  icon_pack: fab
+  name: Meta-analysis 
 
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
