@@ -25,7 +25,7 @@ feature:
   icon_pack: fas
   name: Statistics
 - description: 40%
-  icon: spider-web
+  icon: spider-solid
   icon_pack: fab
   name: Web crawler
 - description: 20%
