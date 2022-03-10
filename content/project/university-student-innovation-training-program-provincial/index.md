@@ -6,6 +6,8 @@ featured: false
 authors: []
 tags:
   - Training program
+categories:
+  - Training program
 image:
   filename: featured
   focal_point: Smart
