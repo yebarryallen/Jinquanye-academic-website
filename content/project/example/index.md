@@ -4,6 +4,8 @@ url_pdf: ""
 summary: ""
 url_video: ""
 date: 2022-03-09T14:45:45.789Z
+categories:
+  - Training program
 external_link: ""
 url_slides: ""
 title: University student innovation training program(national)
