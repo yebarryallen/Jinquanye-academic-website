@@ -12,8 +12,12 @@ projects:
 image:
   filename: baidu-index.png
   focal_point: Smart
-  preview_only: true
+  preview_only: false
 ---
+### Login to your Baidu account to get the Baidu index cookie, and obtain it in the following way.
+
+![](baidu_index-cookie.png "Check--Network-index?_-Cookie")
+
 ```
 PROVINCE_CODE = {'全国': '0','山东': '901', '贵州': '902', '江西': '903', '重庆': '904', '内蒙古': '905', '湖北': '906', '辽宁': '907', '湖南': '908', '福建': '909', '上海': '910', '北京': '911', '广西': '912', '广东': '913', '四川': '914', '云南': '915', '江苏': '916', '浙江': '917', '青海': '918', '宁夏': '919', '河北': '920', '黑龙江': '921', '吉林': '922', '天津': '923', '陕西': '924', '甘肃': '925', '新疆': '926', '河南': '927', '安徽': '928', '山西': '929', '海南': '930', '台湾': '931', '西藏': '932', '香港': '933', '澳门': '934'}
 
