@@ -1,5 +1,5 @@
 ---
-widget: portfolio
+widget: featurette
 widget_id: Publications
 headless: true
 weight: 90
