@@ -1,5 +1,5 @@
 ---
-widget: page
+widget: Content Feed
 widget_id: Publications
 headless: true
 weight: 90
