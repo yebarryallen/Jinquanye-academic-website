@@ -1,5 +1,5 @@
 ---
-widget: featurette
+widget: page
 widget_id: Publications
 headless: true
 weight: 90
