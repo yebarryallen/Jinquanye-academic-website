@@ -1,6 +1,6 @@
 ---
 widget: Content Feed
-widget_id: Publications
+widget_id: " "
 headless: true
 weight: 90
 title: Recent Publications
