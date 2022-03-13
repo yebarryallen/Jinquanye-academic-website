@@ -91,8 +91,8 @@ features:
       index_name: ''
       show_logo: false
   map:
-    provider: ''
-    api_key: ''
+    provider: 'amap'
+    api_key: '1c5469950e80bc7198b1306ab4818c42'
     zoom: 15
 
 # Extensions
