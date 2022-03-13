@@ -32,7 +32,7 @@ abstract: "COVID-19 greatly challenges the human health sector, and has resulted
   chloride in soil. These policy recommendations provide a scientific basis for
   controlling medical waste pollution."
 draft: false
-featured: false
+featured: true
 image:
   filename: featured
   focal_point: Smart
