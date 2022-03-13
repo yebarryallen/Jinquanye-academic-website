@@ -1,5 +1,5 @@
 ---
 widget: featured
-widget_id: RECENT-POSTS
+widget_id: featured
 weight: 10
 ---
