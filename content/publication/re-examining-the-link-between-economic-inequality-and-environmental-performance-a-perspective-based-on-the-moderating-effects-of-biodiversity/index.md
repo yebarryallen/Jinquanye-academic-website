@@ -30,7 +30,7 @@ abstract: Inequality in economic distribution and environmental deterioration
   affect the sub part of ecosystem vitality , with the most significant effect
   on climate change. Biodiversity has a moderating effect on economic
   inequality, with the most significant non-linear moderating effect.
-draft: true
+draft: false
 featured: false
 categories:
   - passed-papers
