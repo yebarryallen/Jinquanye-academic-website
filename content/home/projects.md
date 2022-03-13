@@ -29,6 +29,8 @@ content:
     tag: '*'
   - name: Training program
     tag: Training program
+  - name: Web-crawler
+    tag: Web-crawler
   - name: Other
     tag: Demo
 
