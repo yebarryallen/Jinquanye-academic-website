@@ -34,7 +34,7 @@ abstract: "COVID-19 greatly challenges the human health sector, and has resulted
 draft: false
 featured: true
 image:
-  filename: featured
+  filename: 封面.png
   focal_point: Smart
   preview_only: false
 date: 2022-03-09T14:40:53.379Z
