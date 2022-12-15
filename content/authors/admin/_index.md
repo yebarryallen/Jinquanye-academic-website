@@ -24,6 +24,11 @@ social:
     icon_pack: fab
     icon: twitter
     label: ""
+  - display:
+      header: false
+    icon_pack: fab
+    icon: researchgate
+    link: https://www.researchgate.net/profile/Jinquan-Ye
 organizations:
   - name: Duke Kunshan University
     url: https://env.dukekunshan.edu.cn/zh-hans/
