@@ -4,15 +4,17 @@ title: A meta-analysis of the relationship between climate change experience and
 publication_types:
   - "2"
 authors:
-  - Ziqian Xia1
-  - Jinquan Ye1
-  - Yongan Zhou1
+  - Ziqian Xia
+  - Jinquan Ye
+  - Yongan Zhou
   - Peter D Howe
   - Ming Xu
   - Xianchun Tan
   - Xi Tian and Chao Zhang
 author_notes:
-  - 1 These authors contribute equally.
+  - These authors contribute equally
+  - These authors contribute equally
+  - These authors contribute equally
 doi: 10.1088/2515-7620/ac9bd9
 publication: Environmental Research Communications
 abstract: Will climate change experience shape people's climate change
