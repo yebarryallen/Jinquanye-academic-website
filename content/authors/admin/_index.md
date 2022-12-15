@@ -22,7 +22,7 @@ social:
       header: false
     link: https://twitter.com/yebarryallen
     icon_pack: fab
-    icon: fa-twitter
+    icon: twitter
     label: ""
 organizations:
   - name: Duke Kunshan University
