@@ -5,55 +5,14 @@ publication_types:
   - "2"
 authors:
   - Ziqian Xia1
-  - "12"
-  - Jinquan Ye2
-  - "12"
-  - Yongan Zhou3
-  - "12"
-  - Peter D Howe4
-  - Ming Xu5
-  - "6"
-  - Xianchun Tan7
-  - Xi Tian8
-  - "9"
-  - 10 and Chao Zhang11
-  - ∗
+  - Jinquan Ye1
+  - Yongan Zhou1
+  - Peter D Howe
+  - Ming Xu
+  - Xianchun Tan
+  - Xi Tian and Chao Zhang
 author_notes:
-  - 1 School of Economics and Management
-  - Tongji University
-  - Shanghai
-  - People’s Republic of China 2 School of Public Policy and Administration
-  - Nanchang University
-  - Nanchang
-  - People’s Republic of China 3 Chalmers University of Technology
-  - Sweden 4 Department of Environment and Society
-  - Utah State University
-  - United States of America 5 School of Environment and Sustainability
-  - University of Michigan
-  - Ann Arbor
-  - MI
-  - United States of America 6 School of Environment
-  - Tsinghua University
-  - Beijing
-  - People’s Republic of China 7 Institutes of Science and Development
-  - Chinese Academy of Sciences (CAS)
-  - Beijing
-  - People’s Republic of China 8 Research Center for Central China Economic and
-    Social Development
-  - Nanchang University
-  - Nanchang
-  - People’s Republic of China 9 School of Economics and Management
-  - Nanchang University
-  - Nanchang
-  - People’s Republic of China 10 Jiangxi Ecological Civilization Research
-    Institute
-  - Nanchang University
-  - Nanchang
-  - People’s Republic of China 11 United Nation Environment-Tongji Institute of
-    Environment for Sustainable Development
-  - Tongji University
-  - Shanghai
-  - People’s Republic of China 12 As review team members
+  - 1 As review team members
   - these authors contribute equally.
 doi: 10.1088/2515-7620/ac9bd9
 publication: Environmental Research Communications
