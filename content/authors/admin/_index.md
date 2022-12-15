@@ -34,7 +34,7 @@ education:
       year: 2019
     - course: Nanchang University
       institution: School of Public Policy and Management
-      year: 2020
+      year: 2022
 email: yebarryallen@gmail.com
 superuser: true
 user_groups:
