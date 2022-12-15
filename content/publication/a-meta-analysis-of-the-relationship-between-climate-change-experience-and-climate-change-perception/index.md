@@ -35,7 +35,7 @@ abstract: Will climate change experience shape people's climate change
 draft: false
 featured: true
 image:
-  filename: qq截图20221215171638.png
+  filename: meta-table.png
   focal_point: Smart
   preview_only: false
 date: 2022-12-15T09:07:27.693Z
