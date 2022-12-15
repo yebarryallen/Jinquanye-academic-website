@@ -4,20 +4,20 @@ title: A meta-analysis of the relationship between climate change experience and
 publication_types:
   - "2"
 authors:
-  - Ziqian Xia12
-  - "1"
-  - Jinquan Ye13
-  - "2"
-  - Yongan Zhou13
-  - "3"
+  - Ziqian Xia1
+  - "12"
+  - Jinquan Ye2
+  - "12"
+  - Yongan Zhou3
+  - "12"
   - Peter D Howe4
   - Ming Xu5
   - "6"
   - Xianchun Tan7
   - Xi Tian8
   - "9"
-  - 10 and Chao Zhang13
-  - "11"
+  - 10 and Chao Zhang11
+  - ∗
 author_notes:
   - 1 School of Economics and Management
   - Tongji University
@@ -54,8 +54,7 @@ author_notes:
   - Tongji University
   - Shanghai
   - People’s Republic of China 12 As review team members
-  - these authors contribute equally. ∗ Author to whom any correspondence should
-    be addressed.
+  - these authors contribute equally.
 doi: 10.1088/2515-7620/ac9bd9
 publication: Environmental Research Communications
 abstract: Will climate change experience shape people's climate change
