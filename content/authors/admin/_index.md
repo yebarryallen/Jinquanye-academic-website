@@ -21,8 +21,9 @@ social:
   - display:
       header: false
     link: https://twitter.com/yebarryallen
-    icon_pack: far
-    icon: twitter
+    icon_pack: fab
+    icon: fa-twitter
+    label: ""
 organizations:
   - name: Duke Kunshan University
     url: https://env.dukekunshan.edu.cn/zh-hans/
