@@ -2,7 +2,7 @@
 title: Quickly crawl all contents of search result pages in Weibo
 subtitle: by python
 date: 2022-03-11T08:15:51.917Z
-summary: easy to use
+summary: none
 draft: false
 featured: false
 categories:
@@ -16,7 +16,7 @@ image:
 
 * Login to your Weibo account and go to the [home page of Weibo](https://weibo.com/).
 
-![https://s.weibo.com/top/summary?cate=realtimehot](weibo搜索.png "Weibo search page")
+![https://s.weibo.com/top/summary?cate=realtimehot](weibo搜索.png "Weibo search engine page")
 
 * Go to the Check page（检查） and click on Network（网络）. Select weibo.com to see the cookie column, double click to copy the cookie. Use the "pip install lxml" command to install the lxml package to run the following code.
 
@@ -160,6 +160,4 @@ def main():
     time.sleep(random.uniform(1, 2))
 if __name__ == '__main__':
     main()
-
-
 ```
