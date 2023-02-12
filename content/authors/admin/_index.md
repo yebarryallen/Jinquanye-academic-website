@@ -47,4 +47,4 @@ user_groups:
   - bibliography
 highlight_name: true
 ---
-I received B.S. degree in the **Management Science and Engineering** from **Nanchang University**, Nanchang, China, in 2022.Visiting study at the National University of Singapore during undergraduate studies. I expect to enroll in the iMEP Master's program at Duke Kunshan University in 2023. I am **seeking a research assistant position** or a corporate internship for **the first half of 2023**. As well as **a future PhD position**.
+I am currently enrolled in the Sanford School of Public Policy and the Nicholas School of the Environment at Duke University for my Masters in Environmental Policy. I am **seeking a research assistant position** or a corporate internship for **the first half of 2023**. As well as **a future PhD position**.
