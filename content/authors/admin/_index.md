@@ -34,6 +34,10 @@ organizations:
     url: https://nicholas.duke.edu/academics/masters-programs/international-master-environmental-policy
 education:
   courses:
+    - year: 2023
+      course: Duke University
+      institution: Sanford School of Public Policy and the Nicholas School of the
+        Environment
     - course: " NUS-Innovation Management Program"
       institution: NUS FACULTY OF ENGINEERING Department of Industrial Systems
         Engineering and Management
@@ -41,10 +45,6 @@ education:
     - course: Nanchang University
       institution: School of Public Policy and Management
       year: 2022
-    - year: 2022
-      course: Duke University
-      institution: Sanford School of Public Policy and the Nicholas School of the
-        Environment
 email: yebarryallen@gmail.com
 superuser: true
 user_groups:
