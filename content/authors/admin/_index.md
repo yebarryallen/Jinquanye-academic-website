@@ -30,8 +30,8 @@ social:
     icon: researchgate
     link: https://www.researchgate.net/profile/Jinquan-Ye
 organizations:
-  - name: Duke Kunshan University
-    url: https://env.dukekunshan.edu.cn/zh-hans/
+  - name: Duke University
+    url: https://nicholas.duke.edu/academics/masters-programs/international-master-environmental-policy
 education:
   courses:
     - course: " NUS-Innovation Management Program"
@@ -41,6 +41,10 @@ education:
     - course: Nanchang University
       institution: School of Public Policy and Management
       year: 2022
+    - year: 2022
+      course: Duke University
+      institution: Sanford School of Public Policy and the Nicholas School of the
+        Environment
 email: yebarryallen@gmail.com
 superuser: true
 user_groups:
