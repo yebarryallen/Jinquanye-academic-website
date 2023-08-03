@@ -10,10 +10,6 @@ image:
   focal_point: Smart
   preview_only: false
 ---
-M﻿enbers:
+**Members:**
 
-J﻿inquan Ye
-
-Z﻿uocheng Zhang
-
-K﻿aidi Liu
+**[J﻿inquan Ye](https://scholar.google.com.hk/citations?user=Rh4AFogAAAAJ&hl=zh-CN); [Kaidi Liu](https://www.researchgate.net/profile/Kaidi-Liu-5); [Zuocheng Zhang](https://www.researchgate.net/profile/Zuocheng-Zhang-3)**
