@@ -5,12 +5,10 @@ avatar_filename: avatar.jpg
 bio: "My research interests include text mining techniques, econometrics,
   environmental science, and social media data research. "
 interests:
-  - Artificial intelligence
-  - natural language processing
-  - meta-analysis
-  - multi-regional input-output
-  - policy evaluation
-  - MRP
+  - Natural Language Processing
+  - Meta-analysis
+  - LLM
+  - Pro-environmental Behavior
 social:
   - icon: orcid
     icon_pack: ai
@@ -45,10 +43,10 @@ education:
     - course: Nanchang University
       institution: School of Public Policy and Management
       year: 2022
-email: yebarryallen@gmail.com
+email: jinquan.ye@duke.edu
 superuser: true
 user_groups:
   - bibliography
 highlight_name: true
 ---
-I am currently enrolled in the Sanford School of Public Policy and the Nicholas School of the Environment at Duke University for my Masters in Environmental Policy. I am **seeking a research assistant position** or a corporate internship for **the first half of 2023**. As well as **a future PhD position**.
+I am currently enrolled in the Sanford School of Public Policy and the Nicholas School of the Environment at Duke University for my Masters in Environmental Policy. I am **seeking** **a future PhD position**.  I am currently working on the application of LLM to the field of environmental policy and meta-analysis.
