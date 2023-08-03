@@ -23,7 +23,7 @@ abstract: This study maps the shifts in subnational climate change issue
   for tailored and targeted communication strategies to mitigate the spatial
   mismatch between climate change perception and risk exposure.
 draft: false
-featured: false
+featured: true
 image:
   filename: 图片1.png
   focal_point: Smart
