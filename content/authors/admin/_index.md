@@ -5,6 +5,7 @@ avatar_filename: avatar.jpg
 bio: "My research interests include text mining techniques, econometrics,
   environmental science, and social media data research. "
 interests:
+  - Mitigation of climate change
   - Natural Language Processing
   - Meta-analysis
   - LLM
