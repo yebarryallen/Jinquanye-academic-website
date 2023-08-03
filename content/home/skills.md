@@ -25,10 +25,10 @@ feature:
   icon_pack: fas
   name: Statistics
 
-- icon: "database-solid"
+- icon: "registered"
   icon_pack: "custom"
-  name: "database"
-  description: "40%"
+  name: "R"
+  description: "90%"
 - icon: "table-cells-solid"
   icon_pack: "custom"
   name: "Meta-analysis"
