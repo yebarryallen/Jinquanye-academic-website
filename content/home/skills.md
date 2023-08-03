@@ -32,7 +32,7 @@ feature:
 - icon: "table-cells-solid"
   icon_pack: "custom"
   name: "Meta-analysis"
-  description: "20%"
+  description: "50%"
 - icon: "spider-solid"
   icon_pack: "custom"
   name: "Web crawler"
