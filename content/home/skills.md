@@ -26,7 +26,7 @@ feature:
   name: Statistics
 
 - icon: "registered"
-  icon_pack: "custom"
+  icon_pack: fas
   name: "R"
   description: "90%"
 - icon: "table-cells-solid"
