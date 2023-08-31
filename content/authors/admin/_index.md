@@ -50,4 +50,4 @@ user_groups:
   - bibliography
 highlight_name: true
 ---
-I am currently enrolled in the Sanford School of Public Policy and the Nicholas School of the Environment at Duke University for my Masters in Environmental Policy. I am **seeking** **a future PhD position**.  I am currently working on the application of LLM to the field of environmental policy and meta-analysis.
+I am currently enrolled in the Nicholas School of the Environment at Duke University for my Masters in Environmental Policy. I am **seeking** **a future PhD position**.  I am currently working on the application of LLM to the field of environmental policy and meta-analysis.
