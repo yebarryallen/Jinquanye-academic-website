@@ -1,9 +1,10 @@
 ---
 title: Jinquan Ye
 role: ""
-avatar_filename: avatar.jpg
-bio: "My research interests include text mining techniques, econometrics,
-  environmental science, and social media data research. "
+avatar_filename: you-正方形.png
+bio: My research interests include text mining techniques, econometrics,
+  environmental science, and social media data research. Feel free to leave any
+  programming questions to me and I hope to collaborate with you in the future.
 interests:
   - Mitigation of climate change
   - Natural Language Processing
