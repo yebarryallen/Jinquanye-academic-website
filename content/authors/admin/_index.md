@@ -34,7 +34,7 @@ social:
     link: https://duke.zoom.us/my/jinquan
     icon_pack: custom
     icon: zoom
-    label: "personal meeting room"
+    label: "zoom"
 organizations:
   - name: Duke University
     url: https://nicholas.duke.edu/academics/masters-programs/international-master-environmental-policy
