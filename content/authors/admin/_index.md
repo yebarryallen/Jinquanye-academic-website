@@ -18,6 +18,9 @@ social:
   - icon: github
     icon_pack: fab
     link: https://github.com/yebarryallen
+  - icon: zoom
+    icon_pack: custom
+    link: https://duke.zoom.us/my/jinquan
   - display:
       header: false
     link: https://twitter.com/yebarryallen
@@ -29,12 +32,6 @@ social:
     icon_pack: fab
     icon: researchgate
     link: https://www.researchgate.net/profile/Jinquan-Ye
-  - display:
-      header: false
-    link: https://duke.zoom.us/my/jinquan
-    icon_pack: custom
-    icon: zoom
-    label: "zoom"
 organizations:
   - name: Duke University
     url: https://nicholas.duke.edu/academics/masters-programs/international-master-environmental-policy
