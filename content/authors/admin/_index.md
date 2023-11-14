@@ -29,6 +29,12 @@ social:
     icon_pack: fab
     icon: researchgate
     link: https://www.researchgate.net/profile/Jinquan-Ye
+  - display:
+      header: false
+    link: https://duke.zoom.us/my/jinquan
+    icon_pack: fab
+    icon: zoom
+    label: ""
 organizations:
   - name: Duke University
     url: https://nicholas.duke.edu/academics/masters-programs/international-master-environmental-policy
