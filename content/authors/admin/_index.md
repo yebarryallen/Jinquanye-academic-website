@@ -56,3 +56,9 @@ highlight_name: true
 I am currently enrolled in the Nicholas School of the Environment at Duke University for my Masters in Environmental Policy. I am **seeking** **a future PhD position**.  I am currently working on the application of LLM to the field of environmental policy and meta-analysis.
 
 Referee service:
+
+* <!--StartFragment-->
+
+  [Energy Research & Social Science](https://www.sciencedirect.com/journal/energy-research-and-social-science)
+
+  <!--EndFragment-->
