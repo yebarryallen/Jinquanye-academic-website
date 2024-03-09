@@ -39,8 +39,7 @@ education:
   courses:
     - year: 2023
       course: Duke University
-      institution: Sanford School of Public Policy and the Nicholas School of the
-        Environment
+      institution: Nicholas School of the Environment
     - course: " NUS-Innovation Management Program"
       institution: NUS FACULTY OF ENGINEERING Department of Industrial Systems
         Engineering and Management
@@ -57,9 +56,3 @@ highlight_name: true
 I am currently enrolled in the Nicholas School of the Environment at Duke University for my Masters in Environmental Policy. I am **seeking** **a future PhD position**.  I am currently working on the application of LLM to the field of environmental policy and meta-analysis.
 
 Referee service:
-
-* <!--StartFragment-->
-
-  [Energy Research & Social Science](https://www.sciencedirect.com/journal/energy-research-and-social-science)
-
-  <!--EndFragment-->
