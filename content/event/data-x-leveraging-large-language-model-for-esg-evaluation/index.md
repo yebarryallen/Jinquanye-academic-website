@@ -14,8 +14,9 @@ draft: false
 featured: true
 authors: []
 image:
-  filename: esg-poster-1.png
-  focal_point: CENTER
+  filename: ""
+  focal_point: ""
   preview_only: false
-  caption: Poster
+  caption: ""
 ---
+![Poster](esg-poster-1.png "Poster for preliminary results")
