@@ -11,7 +11,7 @@ event: Presentation
 event_url: None
 publishDate: 2024-03-15T06:45:45.494Z
 draft: false
-featured: true
+featured: false
 authors:
   - Jinquan Ye
 image:
