@@ -15,6 +15,6 @@ featured: true
 authors: []
 image:
   filename: esg-poster-1.png
-  focal_point: Smart
+  focal_point: CENTER
   preview_only: false
 ---
