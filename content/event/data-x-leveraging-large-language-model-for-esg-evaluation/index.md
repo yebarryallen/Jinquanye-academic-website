@@ -17,4 +17,5 @@ image:
   filename: esg-poster-1.png
   focal_point: CENTER
   preview_only: false
+  caption: Poster
 ---
