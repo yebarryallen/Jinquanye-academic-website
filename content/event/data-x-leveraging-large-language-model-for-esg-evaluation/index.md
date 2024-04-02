@@ -11,7 +11,9 @@ event: Presentation
 event_url: None
 publishDate: 2024-03-15T06:45:45.494Z
 draft: false
-featured: false
+featured: true
+authors:
+  - Jinquan Ye
 image:
   filename: esg-poster-1.png
   focal_point: Smart
