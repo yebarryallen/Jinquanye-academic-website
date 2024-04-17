@@ -7,10 +7,10 @@ summary: |-
 
   ![]()
 draft: false
-featured: true
+featured: false
 authors: []
 image:
-  filename: eepp-feature.png
+  filename: ""
   focal_point: Smart
   preview_only: false
 ---
