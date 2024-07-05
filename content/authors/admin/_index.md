@@ -53,12 +53,24 @@ user_groups:
   - bibliography
 highlight_name: true
 ---
-I am currently enrolled in the Nicholas School of the Environment at Duke University for my Masters in Environmental Policy. I am **seeking** **a future PhD position**.  I am currently working on the application of LLM to the field of environmental policy and meta-analysis.
+Master's in Environmental Policy in Duke University. I am currently working on the application of LLM to the field of environmental policy and meta-analysis. 🔬Seeking a PhD position.
+
+P﻿ython package development: <!--StartFragment-->
+
+* 📦️[LLMeta: ](https://github.com/yebarryallen/LLMeta)Large language models for automated meta-analysis
+
+<!--EndFragment-->
+
+<!--StartFragment-->
+
+* 📦️[SECFC:](https://github.com/yebarryallen/SECFC) Survey Embedded Carbon Footprint Calculator
+
+<!--EndFragment-->
 
 Referee service:
 
-* <!--StartFragment-->
+<!--StartFragment-->
 
-  [Energy Research & Social Science](https://www.sciencedirect.com/journal/energy-research-and-social-science)
+* 📚︎ [Energy Research & Social Science](https://www.sciencedirect.com/journal/energy-research-and-social-science)
 
-  <!--EndFragment-->
+<!--EndFragment-->
