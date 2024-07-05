@@ -37,9 +37,9 @@ feature:
   icon_pack: "custom"
   name: "Web crawler"
   description: "60%"  
-- icon: "table-cells-solid"
-  icon_pack: "custom"
-  name: "Excel"
+- icon: "cube"
+  icon_pack: "solid"
+  name: "Package Development"
   description: "100%"    
   
 # Uncomment to use emoji icons.
