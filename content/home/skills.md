@@ -38,7 +38,7 @@ feature:
   name: "Web crawler"
   description: "60%"  
 - icon: "cube"
-  icon_pack: "solid"
+  icon_pack: fas
   name: "Package Development"
   description: "100%"    
   
