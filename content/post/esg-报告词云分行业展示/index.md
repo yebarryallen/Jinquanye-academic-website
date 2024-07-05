@@ -2,7 +2,7 @@
 title: ESG 报告词云分行业展示
 date: 2023-10-31T06:24:53.291Z
 summary: ""
-draft: false
+draft: true
 featured: false
 image:
   filename: wordcloud_采矿业-b-.png
