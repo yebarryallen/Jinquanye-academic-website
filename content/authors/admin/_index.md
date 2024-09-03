@@ -37,7 +37,7 @@ organizations:
     url: https://nicholas.duke.edu/academics/masters-programs/international-master-environmental-policy
 education:
   courses:
-    - year: 2023
+    - year: 2025
       course: Duke University
       institution: Nicholas School of the Environment
     - course: " NUS-Innovation Management Program"
