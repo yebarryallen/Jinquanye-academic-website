@@ -6,10 +6,10 @@ bio: My research interests include text mining techniques, econometrics,
   environmental science, and social media data research. Feel free to leave any
   programming questions to me and I hope to collaborate with you in the future.
 interests:
-  - Mitigation of climate change
+  - Energy Transition
+  - Green Finance
   - Natural Language Processing
-  - Meta-analysis
-  - LLM
+  - Machine Learning and LLMs
   - Pro-environmental Behavior
 social:
   - icon: orcid
@@ -53,7 +53,11 @@ user_groups:
   - bibliography
 highlight_name: true
 ---
-Master's in Environmental Policy in Duke University. I am currently working on the application of LLM to the field of environmental policy and meta-analysis. 🔬Seeking a PhD position.
+<!--StartFragment-->
+
+Welcome to my webpage! I am currently pursuing my Master's degree at Duke University's Nicholas School of the Environment. My research is primarily conducted within Professor [Junie Zhang'](https://nicholas.duke.edu/people/faculty/zhang-0)s team at Duke University and the [Cambridge Collective Intelligence & Design Group](https://camcid.github.io/team.html).
+
+<!--EndFragment-->
 
 P﻿ython package development: <!--StartFragment-->
 
