@@ -59,17 +59,13 @@ Welcome to my webpage! I am currently pursuing my Master's degree at Duke Univer
 
 <!--EndFragment-->
 
-P﻿ython package development: <!--StartFragment-->
-
-* 📦️[LLMeta: ](https://github.com/yebarryallen/LLMeta)Large language models for automated meta-analysis
-
-<!--EndFragment-->
-
 <!--StartFragment-->
 
-* 📦️[SECFC:](https://github.com/yebarryallen/SECFC) Survey Embedded Carbon Footprint Calculator
+Developed Python packages during the research on greenwashing behavior, carbon accounting, and meta-analysis:
 
-<!--EndFragment-->
+* 📦️[LLMscreen](https://github.com/yebarryallen/LLMscreen): For systematic review screening of scientific texts
+* 📦️[LLMeta: ](https://github.com/yebarryallen/LLMeta)Large language models for automated meta-analysis
+* 📦️[SECFC:](https://github.com/yebarryallen/SECFC) Survey Embedded Carbon Footprint Calculator
 
 Referee service:
 
