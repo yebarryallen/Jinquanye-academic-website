@@ -37,7 +37,7 @@ content:
     - icon: video
       icon_pack: fas
       name: Zoom Me
-      link: 'https://zoom.com'
+      link: 'https://duke.zoom.us/my/jinquan'
 
 design:
   columns: '2'
