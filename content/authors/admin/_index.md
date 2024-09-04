@@ -55,7 +55,9 @@ highlight_name: true
 ---
 <!--StartFragment-->
 
-Welcome to my webpage! I am currently pursuing my Master's degree at Duke University's Nicholas School of the Environment. My research is primarily conducted within Professor [Junie Zhang'](https://nicholas.duke.edu/people/faculty/zhang-0)s team at Duke University and the [Cambridge Collective Intelligence & Design Group](https://camcid.github.io/team.html).
+Welcome to my webpage! I am currently pursuing my Master's degree at Duke University's Nicholas School of the Environment. My research is primarily conducted within Professor [Junie Zhang'](https://nicholas.duke.edu/people/faculty/zhang-0)s team at Duke University and the [Cambridge Collective Intelligence & Design Group](https://camcid.github.io/team.html). Co-founder, [China Climate Communication Initiative](https://climcomm.netlify.app/).
+
+<!--EndFragment-->
 
 <!--EndFragment-->
 
