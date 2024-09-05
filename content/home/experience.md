@@ -38,8 +38,7 @@ experience:
     location: Singapore
     date_start: '2019-07-15'
     date_end: '2019-08-05'
-    description: Organised the group to collect and analyze the debriefing materials, then present the results.
-
+    description: 
 
   - title: Attended Academic Conferences
     company: FEMIB 2020 2nd International Conference on Finance, Economics, Management and IT Business
@@ -48,10 +47,7 @@ experience:
     location: Czech Republic
     date_start: '2020-05-05'
     date_end: '2020-05-06'
-    description: |2-
-        Responsibilities include:
-        
-        * As a conference speaker
+    description: 
        
 
 design:
