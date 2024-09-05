@@ -22,19 +22,14 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: Research Intern
-    company: The Environmental Research Center (ERC) 
-    company_url: '[http://www.jxlanyu.com/](https://env.dukekunshan.edu.cn/research/about-research/)'
+  - title: Affiliated Researcher
+    company: Cambridge Collective Intelligence & Design Group 
+    company_url: 'https://camcid.github.io/team.html'
     company_logo: DKU
-    location: Kunshan, China
-    date_start: '2023-03-01'
+    location: Cambridge, UK
+    date_start: '2024-06-01'
     date_end: ''
-    description: |2-
-        Responsibilities include:
-        
-        * Processing and analysis of CMIP datasets
-        * Use python to collect enterprise disclosure reports
-        * Deploying LLM to help conduct green finance research
+    description: |
         
   - title: Interned at SP REGINEBOO ORGANISATION
     company: AIA Singapore
