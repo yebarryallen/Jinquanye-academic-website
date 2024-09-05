@@ -25,7 +25,7 @@ experience:
   - title: Affiliated Researcher
     company: Cambridge Collective Intelligence & Design Group 
     company_url: 'https://camcid.github.io/team.html'
-    company_logo: DKU
+    company_logo: CAM
     location: Cambridge, UK
     date_start: '2024-06-01'
     date_end: ''
