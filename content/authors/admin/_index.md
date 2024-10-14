@@ -71,9 +71,5 @@ Developed Python packages during the research on greenwashing behavior, carbon a
 
 Referee service:
 
-<!--StartFragment-->
-
 * 📚︎ [Energy Research & Social Science](https://www.sciencedirect.com/journal/energy-research-and-social-science)
 * 📚︎ [Natural Language Processing](https://www.cambridge.org/core/journals/natural-language-processing/information/about-this-journal)
-
-<!--EndFragment-->
