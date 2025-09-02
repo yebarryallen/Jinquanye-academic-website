@@ -73,3 +73,5 @@ Referee service:
 
 * 📚︎ [Energy Research & Social Science](https://www.sciencedirect.com/journal/energy-research-and-social-science)
 * 📚︎ [Natural Language Processing](https://www.cambridge.org/core/journals/natural-language-processing/information/about-this-journal)
+* 📚︎ [Innovation and Green Development](https://www.sciencedirect.com/journal/innovation-and-green-development)
+
