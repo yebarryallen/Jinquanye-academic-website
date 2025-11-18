@@ -62,7 +62,7 @@ Welcome to my webpage! I am currently pursuing my Master's degree at Duke Univer
 <!--EndFragment-->
 
 <!--StartFragment-->
-
+My research in computational social science integrates environmental economics, behavioral analysis, and sustainability studies to understand and accelerate sustainable transitions at both individual and corporate levels. I combine machine learning and causal inference methods to uncover the mechanisms driving climate-related behaviors and to design data-driven interventions that promote systemic change.
 Developed Python packages during the research on greenwashing behavior, carbon accounting, and meta-analysis:
 
 * 📦️[LLMscreen](https://github.com/yebarryallen/LLMscreen): For systematic review screening of scientific texts
