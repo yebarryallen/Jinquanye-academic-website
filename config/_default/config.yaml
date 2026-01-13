@@ -4,7 +4,7 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 title: Jinquan Ye # Website name
-baseURL: 'https://example.com/' # Website URL
+baseURL: 'https://jinquan.site/' # Website URL
 
 ############################
 ## LANGUAGE
@@ -30,7 +30,8 @@ module:
 
 enableGitInfo: false
 summaryLength: 30
-paginate: 10
+pagination:
+  pagerSize: 10
 enableEmoji: true
 enableRobotsTXT: true
 footnotereturnlinkcontents: <sup>^</sup>

@@ -7,10 +7,11 @@ widget: featurette
 headless: true
 
 # Order that this section appears on the page.
-weight: 30
+weight: 60
 
 title: Skills
 subtitle:
+active: false
 
 # Showcase personal skills or business features.
 # - Add/remove as many `feature` blocks below as you like.

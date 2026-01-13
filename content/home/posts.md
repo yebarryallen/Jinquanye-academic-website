@@ -7,10 +7,11 @@ widget: pages
 headless: true
 
 # Order that this section appears on the page.
-weight: 60
+weight: 80
 
 title: Recent Posts
 subtitle:
+active: false
 
 content:
   # Filter on criteria
@@ -34,5 +35,5 @@ content:
 design:
   # Choose a view for the listings:
   view: compact
-  columns: '2'
+  columns: '1'
 ---

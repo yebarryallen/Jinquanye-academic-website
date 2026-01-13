@@ -7,10 +7,11 @@ widget: pages
 headless: true
 
 # Order that this section appears on the page.
-weight: 90
+weight: 30
 
 title: Recent Publications
 subtitle: ''
+active: false
 
 content:
   # Filter on criteria
@@ -33,7 +34,7 @@ content:
 design:
   # Choose a view for the listings:
   view: citation
-  columns: '2'
+  columns: '1'
 ---
 
 {{% callout note %}}

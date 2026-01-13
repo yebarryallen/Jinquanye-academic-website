@@ -7,11 +7,10 @@ widget: experience
 headless: true
 
 # Order that this section appears on the page.
-weight: 20
+weight: 10
 
 title: Experience
 subtitle:
-active: false
 
 # Date format for experience
 #   Refer to https://wowchemy.com/docs/customization/#date-format
@@ -63,7 +62,6 @@ experience:
     date_start: '2020-05-05'
     date_end: '2020-05-06'
     description: ""
-       
 
 design:
   columns: '1'

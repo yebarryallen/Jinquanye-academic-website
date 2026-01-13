@@ -6,11 +6,10 @@ widget: contact
 headless: true
 
 # Order that this section appears on the page.
-weight: 30
+weight: 10
 
 title: Contact
 subtitle:
-active: false
 
 content:
   # Automatically link email and phone or display as text?
