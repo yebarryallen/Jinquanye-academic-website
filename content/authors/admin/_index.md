@@ -5,12 +5,6 @@ avatar_filename: you-姝ｆ柟褰?png
 bio: My research interests include text mining techniques, econometrics,
   environmental science, and social media data research. Feel free to leave any
   programming questions to me and I hope to collaborate with you in the future.
-interests:
-  - Energy Transition
-  - Green Finance
-  - Natural Language Processing
-  - Machine Learning and LLMs
-  - Pro-environmental Behavior
 social:
   - icon: orcid
     icon_pack: ai
@@ -54,9 +48,3 @@ Developed Python packages during the research on greenwashing behavior, carbon a
 * [LLMscreen](https://github.com/yebarryallen/LLMscreen): For systematic review screening of scientific texts
 * [LLMeta](https://github.com/yebarryallen/LLMeta): Large language models for automated meta-analysis
 * [SECFC](https://github.com/yebarryallen/SECFC): Survey Embedded Carbon Footprint Calculator
-
-Referee service:
-
-* [Energy Research & Social Science](https://www.sciencedirect.com/journal/energy-research-and-social-science)
-* [Natural Language Processing](https://www.cambridge.org/core/journals/natural-language-processing/information/about-this-journal)
-

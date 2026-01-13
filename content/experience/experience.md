@@ -22,24 +22,6 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: Duke University
-    company: Nicholas School of the Environment
-    date_start: '2023-08-01'
-    date_end: '2025-05-01'
-    description: ""
-
-  - title: Nanchang University
-    company: School of Public Policy and Management
-    date_start: '2018-09-01'
-    date_end: '2022-12-31'
-    description: ""
-
-  - title: NUS-Innovation Management Program
-    company: NUS FACULTY OF ENGINEERING Department of Industrial Systems Engineering and Management
-    date_start: '2019-07-01'
-    date_end: '2019-08-31'
-    description: ""
-
   - title: Affiliated Researcher
     company: Cambridge Collective Intelligence & Design Group 
     company_url: 'https://camcid.github.io/team.html'

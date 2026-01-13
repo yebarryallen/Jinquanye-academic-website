@@ -93,7 +93,7 @@ a:focus {
 .page-body,
 .home-section .container,
 .navbar .container {
-  max-width: 1120px;
+  max-width: 1280px;
 }
 
 .home-section {
@@ -101,6 +101,34 @@ a:focus {
   padding: 3.6rem 0;
   border-top: 1px solid var(--line);
   animation: rise-in 0.9s ease both;
+}
+
+.about-page .home-section {
+  border-top: 2px solid rgba(1, 33, 105, 0.35);
+}
+
+.about-page .home-section:first-of-type {
+  border-top: none;
+}
+
+.home-section p,
+.home-section li,
+.home-section .section-subheading,
+.home-section h1,
+.home-section h2,
+.home-section h3,
+.home-section h4,
+.home-section h5,
+.home-section h6 {
+  text-align: justify;
+  text-justify: inter-word;
+}
+
+.wg-about #profile,
+.wg-about #profile .portrait-title,
+.wg-about #profile .portrait-title h2,
+.wg-about #profile .portrait-title h3 {
+  text-align: center;
 }
 
 .home-section:first-of-type {
@@ -164,6 +192,20 @@ a:focus {
   font-weight: 500;
   color: var(--muted);
   letter-spacing: 0.02em;
+}
+
+.wg-about .ul-interests {
+  margin-bottom: 0;
+  columns: 1;
+  column-gap: 1.5rem;
+
+  @media (min-width: 768px) {
+    columns: 2;
+  }
+}
+
+.wg-about .ul-interests li {
+  break-inside: avoid;
 }
 
 .wg-about .network-icon a,

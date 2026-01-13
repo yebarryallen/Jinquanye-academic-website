@@ -7,7 +7,7 @@ main:
   - name: Home
     url: '/'
     weight: 10
-  - name: Experience
+  - name: About
     url: '/experience/'
     weight: 20
   - name: Projects
