@@ -1,7 +1,7 @@
 ﻿---
 title: Jinquan Ye
 role: ""
-avatar_filename: you-姝ｆ柟褰?png
+avatar_filename: avatar.png
 bio: My research interests include text mining techniques, econometrics,
   environmental science, and social media data research. Feel free to leave any
   programming questions to me and I hope to collaborate with you in the future.
